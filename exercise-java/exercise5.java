@@ -1,6 +1,6 @@
-/*Luis Santiesteban Murillo
-07-02-2019
-12:21*/
+/*Nombre: Luis Santiesteban Murillo
+  Dia: 07-02-2019
+  Hora: 12:21*/
 
 import java.util.Scanner; /*Importacion de libreria para scanner*/
 
