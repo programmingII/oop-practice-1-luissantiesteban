@@ -1,5 +1,6 @@
-/*Luis Santiesteban
-07-02-2019*/
+/*Nombre: Luis Santiesteban
+  Dia: 07-02-2019
+  Hora: 12:47*/
 
 import java.util.Scanner; /*importacion de la libreria para usar scanner*/
 
