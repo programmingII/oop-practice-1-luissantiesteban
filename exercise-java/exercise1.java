@@ -1,4 +1,6 @@
-/*Luis Santiesteban-12:25*/
+/* Nombre: Luis Santiesteban
+   Dia: 05/11/2019
+   Hora: 12:25*/
 
 public class exercise1{
 
