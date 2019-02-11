@@ -1,6 +1,6 @@
-/*Luis Santiesteban
-  07-02-2019
-  12:52*/
+/*Nombre: Luis Santiesteban
+  Dia: 07-02-2019
+  Hora: 12:52*/
 
  public class exercise8{ /*inicio de la clase*/
  
