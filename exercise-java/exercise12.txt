@@ -1,0 +1,25 @@
+/*Nombre:Luis Santiesteban
+  Dia:
+  Hora:
+*/
+
+ public class exercise12{ /*
+ 
+ public static void main(String[] args){ /*start of the class*/
+ Scanner in= new Scanner(System.in); /*start of the name*/
+
+  System.out.println("Input first number: "); /*console priting message*/
+  Float X1 = in.nextFloat(); /*reading data*/
+
+  System.out.println("Input second number: "); /*console priting message*/
+  Float X2 =  in.nextFloat(); /*reading data*/
+
+  System.out.println("Input third number: "); /*console priting message*/
+  Float X3 = in.nextFloat(); /*reading data*/
+ 
+  System.out.println("Average of five number is= " + (X1+X2+X3)/3); /*average calculation and impression*/
+  }
+
+}
+
+ 
