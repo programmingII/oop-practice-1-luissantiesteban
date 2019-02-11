@@ -17,7 +17,7 @@ import java.util.Scanner; /*library import for scannner use*/
   double X2= in.nextDouble(); /*reading data*/
   
   System.out.println("Area is " +X1+ "*" +X2+ "=" +(X1*X2)); /* area operation and data priting*/
-  System.out.println("Perimeter is 2 * ("+X1+ "+" +X1+ ") = "+2*(X1+X2)); /*perimeter operacion and data priting*/
+  System.out.println("Perimeter is 2 * ("+X1+ "+" +X1+ ") = "+2*(X1+X2)); /*perimeter operation and data priting*/
 }
 }
   
