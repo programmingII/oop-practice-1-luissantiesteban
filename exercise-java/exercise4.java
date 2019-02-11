@@ -1,4 +1,6 @@
-/*Luis Santiesteban Murillo-1:30*/
+/*Nombre: Luis Santiesteban Murillo
+  Dia: 05/02/2019 
+  Hora: 1:30*/
 
 public class exercise4{
 
