@@ -3,28 +3,28 @@
   Hora: 12:30
 */
  
- import java.util.Scanner; /*library import for scanner use*/
+ import java.util.Scanner; /*Importacion de libreria para hacer uso del scanner*/
 
- public class exercise17{ /*start of the class*/
- public static void main(String[] args){ /*start of the main*/
+ public class exercise17{ /*Inicio de la clase*/
+ public static void main(String[] args){ /*Inicio del main*/
  
  
- Scanner in=new Scanner(System.in); /*creation of the scanner*/
+ Scanner in=new Scanner(System.in); /*Creacion del scanner*/
 
 
- System.out.println("Input First Binary Number");
- String B1=in.nextLine();
+ System.out.println("Input First Binary Number"); /*Impresion de mensaje para que ingreses el numero binario*/
+ String B1=in.nextLine();/*lectura de la variable*/
  
- System.out.println("Input Second Binary Number");
- String B2=in.nextLine();
+ System.out.println("Input Second Binary Number");/*Impresion de mensaje para que ingreses el segundo numero binario*/
+ String B2=in.nextLine();/*lectura de la variable*/
 
- int C1= Integer.parseInt(B1,2);
- int C2= Integer.parseInt(B2,2);
+ int C1= Integer.parseInt(B1,2); /*Se declara una variable int para hacer el casteo del string y depositar la primer variable ahi*/
+ int C2= Integer.parseInt(B2,2); /*Se declara una variable int para hacer el casteo del string y depositar la segunda variable ahi*/
 
- int R1 =(C1+C2);
- String R2 =Integer.toString(R1,2);
+ int R1 =(C1+C2); /* se crea nueva variable para depositar el resultado de la suma*/
+ String R2 =Integer.toString(R1,2); /*Se crea una nueva variable string para depositar el resultado del casteo de la variable anterior*/
  
- System.out.println("Sum of two binary numbers: " +R2);
+ System.out.println("Sum of two binary numbers: " +R2);/* /*impresion del resultado de la suma en consola*/
  }
 
 }
