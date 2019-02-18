@@ -1,6 +1,6 @@
 /*Nombre: Luis Santiesteban
-  Dia: 16/02/2019
-  Hora: 12:56
+  Dia: 17/02/2019
+  Hora: 7:17
 */
  
  import java.util.Scanner; /*Importacion de libreria para hacer uso del scanner*/
