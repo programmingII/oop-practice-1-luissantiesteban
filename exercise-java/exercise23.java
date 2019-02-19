@@ -16,7 +16,7 @@
  
  int D1= Integer.parseInt(B1,2);//Creacion de una nueva variable para depositar el resultado del casteo de la primer variable
 
- String H1= Integer.toString(D1,16);
+ String H1= Integer.toString(D1,16);//Creacion de una nueva variable para depositar el casteo de la variable D1
  
  System.out.println("Hexadecimal number is: " +H1); //Impresion del resultado de la conversion 
  }
