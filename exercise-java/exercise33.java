@@ -1,5 +1,5 @@
 /*Nombre: Luis Santiesteban
-  Dia: 21/02/2019
+  Dia: 25/02/2019
   Hora: 12:55*/
  
  import java.util.Scanner; /*Importacion de libreria para hacer uso del scanner*/
